@@ -41,7 +41,10 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 
 ## Cvičení
 
-## Úkoly
+[1. cvičení][1cv] (1.10.) - Matematické hrátky, důkazy a indukce; [DÚ][1du]
+
+[1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
+[1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
 
 ## Témata písemek
 
