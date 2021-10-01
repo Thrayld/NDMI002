@@ -48,6 +48,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 
 ## Témata písemek
 
+2.cvičení (8.10) - Matematická indukce
+
 ## Další příklady
 
 Nejvíce se člověk naučí řešením příkladů.
