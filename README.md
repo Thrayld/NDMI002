@@ -42,7 +42,6 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 ## Cvičení
 
 [1. cvičení][1cv] (1.10.) - Matematické hrátky, důkazy a indukce; [DÚ][1du]
-[2. cvičení][2cv] (8.10.) - Něco k indukci, úvod k relacím; [DÚ][2du]
 
 [2. cvičení][2cv] (8.10.) - Něco k indukci, úvod k relacím; [DÚ][2du]
 
@@ -54,7 +53,6 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 ## Témata písemek
 
 2.cvičení (8.10) - Matematická indukce
-3.cvičení (8.10) - Vlastnosti relace
 
 3.cvičení (8.10) - Vlastnosti relace
 
