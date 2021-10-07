@@ -43,12 +43,18 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 
 [1. cvičení][1cv] (1.10.) - Matematické hrátky, důkazy a indukce; [DÚ][1du]
 
+[2. cvičení][2cv] (8.10.) - Něco k indukci, úvod k relacím; [DÚ][2du]
+
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
+[2cv]: https://github.com/Thrayld/NDMI002/blob/main/2cv.pdf
+[2du]: https://github.com/Thrayld/NDMI002/blob/main/2du.pdf
 
 ## Témata písemek
 
 2.cvičení (8.10) - Matematická indukce
+
+3.cvičení (8.10) - Vlastnosti relace
 
 ## Další příklady
 
