@@ -41,9 +41,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 
 ## Cvičení
 
-[1. cvičení][1cv] (1.10.) - Matematické hrátky, důkazy a indukce; [DÚ][1du]
-
-[2. cvičení][2cv] (8.10.) - Něco k indukci, úvod k relacím; [DÚ][2du]
+* [1. cvičení][1cv] (1.10.) - Matematické hrátky, důkazy a indukce; [DÚ][1du]
+* [2. cvičení][2cv] (8.10.) - Něco k indukci, úvod k relacím; [DÚ][2du]
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -52,9 +51,16 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 
 ## Témata písemek
 
-2.cvičení (8.10) - Matematická indukce
+* 2.cvičení (8.10) - Matematická indukce
+* 3.cvičení (15.10) - NEBUDE, relace jsme pořádně nestihli, body nahradím jinde
 
-3.cvičení (8.10) - Vlastnosti relace
+## Výsledky
+
+Výsledky [zde][vysledky].
+
+Kdo chce mít body pojmenované, nechť mi pošle svoji přezdívku.
+
+[vysledky]: https://github.com/Thrayld/NDMI002/blob/main/vysledky.csv
 
 ## Další příklady
 
@@ -67,11 +73,11 @@ Pokud se chcete potrénovat, můžete využít příkladů v následujících zd
 ## Další odkazy
 
 * [Veselý předmět][ips], který může sloužit jako další cvičení z diskrétky (ale naučíte i mnohé další).
-* [Matematické dovednosti][dovednosti], předmět pro procvičení matematické logiky a základních důkazových technik
+* [Matematické dovednosti][dovednosti], předmět pro procvičení matematické logiky a základních důkazových technik.
 * [Podrobný sylabus k pravděpodobnosti][pst_sylabus]
 * [Tahák na kombinatoriku][komb_tahák]
 
-[koutecky]: https://research.koutecky.name/db/teaching:start/
+[koutecky]: https://research.koutecky.name/db/teaching:dm2122_prednaska
 [latex_sablona]: https://jiribenes.com/teaching/dm2122/
 [ukoly_navod]: https://kam.mff.cuni.cz/~koncicky/vyuka/jak_resit/
 [kam_sbirka]: http://matematika.reseneulohy.cz/cs
