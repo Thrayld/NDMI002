@@ -6,7 +6,7 @@ Cvičení k přednáškám [Martin Kouteckého][koutecky], které probíhá kaž
 
 Celkem je zapotřebí **100 bodů** na získání zápočtu. 
 Body lze získat za řešení domácích úkolů, za drobné písemné práce a za aktivitu během cvičení.
-Celkem bude vypsáno 11 úkolů po 10 bodech. 
+Celkem bude vypsáno 11 úkolů, každý *minimálně* za 10 bodů. 
 Písemek bude dohromady 11 po 5 bodech.
 
 Na cvičeních není vyžadována účast, na zápočet stačí body z úkolů.
