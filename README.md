@@ -45,6 +45,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [2. cvičení][2cv] (8.10.) - Něco k indukci, úvod k relacím; [DÚ][2du]
 * [3. cvičení][3cv] (15.10.) - Částečná uspořádání; [DÚ][3du]
 * [4. cvičení][4cv] (22.10.) - Kombinatorické počítání; [DÚ][4du] s prodlouženým deadlinem do **31.10.**
+* [5. cvičení][5cv] (29.10.) - Další kombinatorické počítání; [DÚ][5du]
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -54,13 +55,16 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [3du]: https://github.com/Thrayld/NDMI002/blob/main/3du.pdf
 [4cv]: https://github.com/Thrayld/NDMI002/blob/main/4cv.pdf
 [4du]: https://github.com/Thrayld/NDMI002/blob/main/4du.pdf
+[5cv]: https://github.com/Thrayld/NDMI002/blob/main/5cv.pdf
+[5du]: https://github.com/Thrayld/NDMI002/blob/main/5du.pdf
 
 ## Témata písemek
 
-* 2.cvičení (8.10) - Matematická indukce
-* 3.cvičení (15.10) - NEBUDE, relace jsme pořádně nestihli, body nahradím jinde
-* 4.cvičení (22.10) - Vlastnosti relací, částečná uspořádání (hlavně si zopakujte definice)
-* 5.cvičení (29.10) - Kombinatorické počítání (velmi nápomocné bude pochopení příkladů ze cvičení)
+* 2.cvičení (8.10.) - Matematická indukce
+* 3.cvičení (15.10.) - NEBUDE, relace jsme pořádně nestihli, body nahradím jinde
+* 4.cvičení (22.10.) - Vlastnosti relací, částečná uspořádání (hlavně si zopakujte definice)
+* 5.cvičení (29.10.) - Kombinatorické počítání (velmi nápomocné bude pochopení příkladů ze cvičení)
+* 6.cvičení (5.11.) - Práce s kombinačními čísly
 
 ## Výsledky
 
