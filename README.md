@@ -46,6 +46,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [3. cvičení][3cv] (15.10.) - Částečná uspořádání; [DÚ][3du]
 * [4. cvičení][4cv] (22.10.) - Kombinatorické počítání; [DÚ][4du] s prodlouženým deadlinem do **31.10.**
 * [5. cvičení][5cv] (29.10.) - Další kombinatorické počítání; [DÚ][5du]
+* [6. cvičení][6cv] (5.11.) - Binomická věta, princip inkluze a exkluze; [DÚ][6du] s deadlinem do **19.11.**
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -57,6 +58,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [4du]: https://github.com/Thrayld/NDMI002/blob/main/4du.pdf
 [5cv]: https://github.com/Thrayld/NDMI002/blob/main/5cv.pdf
 [5du]: https://github.com/Thrayld/NDMI002/blob/main/5du.pdf
+[6cv]: https://github.com/Thrayld/NDMI002/blob/main/6cv.pdf
+[6du]: https://github.com/Thrayld/NDMI002/blob/main/6du.pdf
 
 ## Témata písemek
 
