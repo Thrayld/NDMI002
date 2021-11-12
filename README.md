@@ -47,6 +47,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [4. cvičení][4cv] (22.10.) - Kombinatorické počítání; [DÚ][4du] s prodlouženým deadlinem do **31.10.**
 * [5. cvičení][5cv] (29.10.) - Další kombinatorické počítání; [DÚ][5du]
 * [6. cvičení][6cv] (5.11.) - Binomická věta, princip inkluze a exkluze; [DÚ][6du] s deadlinem do **19.11.**
+* [7. cvičení][7cv] (12.11.) - Úvod do grafů, isomorfismus grafů; [DÚ][7du]
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -60,6 +61,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [5du]: https://github.com/Thrayld/NDMI002/blob/main/5du.pdf
 [6cv]: https://github.com/Thrayld/NDMI002/blob/main/6cv.pdf
 [6du]: https://github.com/Thrayld/NDMI002/blob/main/6du.pdf
+[7cv]: https://github.com/Thrayld/NDMI002/blob/main/7cv.pdf
+[7du]: https://github.com/Thrayld/NDMI002/blob/main/7du.pdf
 
 ## Témata písemek
 
@@ -68,6 +71,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * 4.cvičení (22.10.) - Vlastnosti relací, částečná uspořádání (hlavně si zopakujte definice)
 * 5.cvičení (29.10.) - Kombinatorické počítání (velmi nápomocné bude pochopení příkladů ze cvičení)
 * 6.cvičení (5.11.) - Práce s kombinačními čísly
+* 7.cvičení (12.11.) - NEBUDE
+* 8.cvičení (19.11.) - Isomorfismus grafů
 
 ## Výsledky
 
