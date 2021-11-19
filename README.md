@@ -48,6 +48,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [5. cvičení][5cv] (29.10.) - Další kombinatorické počítání; [DÚ][5du]
 * [6. cvičení][6cv] (5.11.) - Binomická věta, princip inkluze a exkluze; [DÚ][6du] s deadlinem do **19.11.**
 * [7. cvičení][7cv] (12.11.) - Úvod do grafů, isomorfismus grafů; [DÚ][7du]
+* [8. cvičení][8cv] (19.11.) - Pokračování grafů; [DÚ][8du]
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -63,6 +64,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [6du]: https://github.com/Thrayld/NDMI002/blob/main/6du.pdf
 [7cv]: https://github.com/Thrayld/NDMI002/blob/main/7cv.pdf
 [7du]: https://github.com/Thrayld/NDMI002/blob/main/7du.pdf
+[8cv]: https://github.com/Thrayld/NDMI002/blob/main/8cv.pdf
+[8du]: https://github.com/Thrayld/NDMI002/blob/main/8du.pdf
 
 ## Témata písemek
 
@@ -73,6 +76,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * 6.cvičení (5.11.) - Práce s kombinačními čísly
 * 7.cvičení (12.11.) - NEBUDE
 * 8.cvičení (19.11.) - Isomorfismus grafů
+* 9.cvičení (26.11.) - Jednotažky
 
 ## Výsledky
 
