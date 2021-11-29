@@ -50,6 +50,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [7. cvičení][7cv] (12.11.) - Úvod do grafů, isomorfismus grafů; [DÚ][7du]
 * [8. cvičení][8cv] (19.11.) - Pokračování grafů; [DÚ][8du]
 * [9. cvičení][9cv] (26.11.) - Další grafová všehochuť, nyní i se stromy; [DÚ][9du]
+* 10. cvičení (3.12.) - Věta o skóre, kostry, stromy, stromová indukce
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -80,7 +81,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * 7.cvičení (12.11.) - NEBUDE
 * 8.cvičení (19.11.) - Isomorfismus grafů
 * 9.cvičení (26.11.) - Jednotažky
-* 10.cvičení (3.12.) - Věta o skóre
+* 10.cvičení (3.12.) - NEBUDE, do úkolu dám jednoduchoučkou úlohu na větu o skóre
 
 ## Výsledky
 
