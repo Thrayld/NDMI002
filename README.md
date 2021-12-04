@@ -70,8 +70,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [8du]: https://github.com/Thrayld/NDMI002/blob/main/8du.pdf
 [9cv]: https://github.com/Thrayld/NDMI002/blob/main/9cv.pdf
 [9du]: https://github.com/Thrayld/NDMI002/blob/main/9du.pdf
-[10cv]: https://github.com/Thrayld/NDMI002/blob/main/9cv.pdf
-[10du]: https://github.com/Thrayld/NDMI002/blob/main/9du.pdf
+[10cv]: https://github.com/Thrayld/NDMI002/blob/main/10cv.pdf
+[10du]: https://github.com/Thrayld/NDMI002/blob/main/10du.pdf
 
 ## Témata písemek
 
