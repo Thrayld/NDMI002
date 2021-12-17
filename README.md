@@ -52,6 +52,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [9. cvičení][9cv] (26.11.) - Další grafová všehochuť, nyní i se stromy; [DÚ][9du]
 * [10. cvičení][10cv] (3.12.) - Věta o skóre, kostry, stromy, stromová indukce; [DÚ][10du]
 * [11. cvičení][11cv] (10.12.) - Rovinné grafy; [DÚ][11du]
+* [12. cvičení][12cv] (17.12.) - Barvení grafů, úvod do pravděpodobnosti; [DÚ][12du]
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -75,6 +76,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [10du]: https://github.com/Thrayld/NDMI002/blob/main/10du.pdf
 [11cv]: https://github.com/Thrayld/NDMI002/blob/main/11cv.pdf
 [11du]: https://github.com/Thrayld/NDMI002/blob/main/11du.pdf
+[12cv]: https://github.com/Thrayld/NDMI002/blob/main/12cv.pdf
+[12du]: https://github.com/Thrayld/NDMI002/blob/main/12du.pdf
 
 ## Témata písemek
 
@@ -89,6 +92,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * 10.cvičení (3.12.) - NEBUDE, do úkolu dám jednoduchoučkou úlohu na větu o skóre
 * 11.cvičení (10.12.) - Stromy, kostry
 * 12.cvičení (17.12.) - Rovinnost, testování rovinnosti
+* 13.cvičení (7.1.) - Pravděpodobnostní počítání, definice pravděpodobnostních prostorů a nezávislých jevů
 
 ## Výsledky
 
