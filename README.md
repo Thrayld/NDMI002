@@ -23,6 +23,13 @@ Jejich téma se bude odvíjet od tématu posledního úkolu.
 
 Body za aktivitu během cvičení lze získat typicky za za předvedení řešení nějakého příkladu.
 
+**UPDATE:** Pokud vám chybí nejvýše 20 bodů k zápočtu, můžete si je doplnit vyřešením nějakých příkladů ze staršího [cvičení Martina Mareše][mares_cviko].
+Můžete si vybrat jakékoliv úlohy **mimo**: první sérii *Hříčky* a úlohy, které se objevily v našich cvičeních a úkolech či jsou velmi podobně (pokud si nejste jisti, zeptejte se).
+Každou úlohu hodnotím **polovinou bodů**, které uvádí pan Mareš (např. za úlohu *fib* z druhé série na indukci můžete získat 4 body).
+Úlohy můžete posílat libovolně po čas zkouškového období, ovšem vyhrazuji si limit **jeden týden** na jejich opravu (pokud tedy kredity za diskrétku potřebujete, je dobré začít brzy). 
+
+[mares_cviko]: http://mj.ucw.cz/vyuka/1718/dm/
+
 ### K řešení úkolů
 
 Při řešení úkolů a písemek je nutné zdůvodňovat postup.
