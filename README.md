@@ -21,9 +21,10 @@ Písemky se píší na začátku každé hodiny (mimo první cvičení).
 Písemky slouží k zopakovaní definic, znění vět, či k procvičení přímého použití vět z přednášek.
 Jejich téma se bude odvíjet od tématu posledního úkolu.
 
-Body za aktivitu během cvičení lze získat typicky za za předvedení řešení nějakého příkladu.
+Body za aktivitu během cvičení lze získat typicky za předvedení řešení nějakého příkladu.
 
-**UPDATE:** Pokud vám chybí nejvýše 20 bodů k zápočtu, můžete si je doplnit vyřešením nějakých příkladů ze staršího [cvičení Martina Mareše][mares_cviko].
+
+<a name="dalsi_body"></a>**UPDATE:** Pokud vám chybí nejvýše 20 bodů k zápočtu, můžete si je doplnit vyřešením nějakých příkladů ze staršího [cvičení Martina Mareše][mares_cviko].
 Můžete si vybrat jakékoliv úlohy **mimo**: první sérii *Hříčky* a úlohy, které se objevily v našich cvičeních a úkolech či jsou velmi podobně (pokud si nejste jisti, zeptejte se).
 Každou úlohu hodnotím **polovinou bodů**, které uvádí pan Mareš (např. za úlohu *fib* z druhé série na indukci můžete získat 4 body).
 Úlohy můžete posílat libovolně po čas zkouškového období, ovšem vyhrazuji si limit **jeden týden** na jejich opravu (pokud tedy kredity za diskrétku potřebujete, je dobré začít brzy). 
@@ -60,6 +61,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 * [10. cvičení][10cv] (3.12.) - Věta o skóre, kostry, stromy, stromová indukce; [DÚ][10du]
 * [11. cvičení][11cv] (10.12.) - Rovinné grafy; [DÚ][11du]
 * [12. cvičení][12cv] (17.12.) - Barvení grafů, úvod do pravděpodobnosti; [DÚ][12du]
+* [13. cvičení][13cv] (1.7.) - Bayesova věta, náhodné veličiny, indikátory; DÚ již není, kdo potřebuje body, viz [výše](#dalsi_body)
 
 [1cv]: https://github.com/Thrayld/NDMI002/blob/main/1cv.pdf
 [1du]: https://github.com/Thrayld/NDMI002/blob/main/1du.pdf
@@ -85,6 +87,7 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 [11du]: https://github.com/Thrayld/NDMI002/blob/main/11du.pdf
 [12cv]: https://github.com/Thrayld/NDMI002/blob/main/12cv.pdf
 [12du]: https://github.com/Thrayld/NDMI002/blob/main/12du.pdf
+[13cv]: https://github.com/Thrayld/NDMI002/blob/main/13cv.pdf
 
 ## Témata písemek
 
@@ -106,6 +109,8 @@ V případě jakýchkoli otázek (k zadání, k řešení úkolu, k něčemu jin
 Výsledky [zde][vysledky].
 
 Kdo chce mít body pojmenované, nechť mi pošle svoji přezdívku.
+
+**UPDATE:** Do SISu jsem zadal zápočty, pokud máte pocit, že jsem na vás zapomněl, tak mi dejte vědět.
 
 [vysledky]: https://github.com/Thrayld/NDMI002/blob/main/vysledky.csv
 
